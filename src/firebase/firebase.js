@@ -21,8 +21,8 @@ import * as firebase from 'firebase';
 
   firebase.initializeApp(firebaseConfig);
   const database = firebase.database();
-
-  export { firebase, database as default };
+  const googleAuthProvider = new firebase.auth.GoogleAuthProvider();
+  export { firebase, googleAuthProvider, database as default };
 
     
   // console.log(`Database url is :${process.env.DATABASE_URL}`);
