@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`should correctly render LoginPage 1`] = `
+exports[`shoul correctly render Loading page 1`] = `
 <div
   className="box-layout"
 >
