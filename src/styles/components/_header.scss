@@ -1,0 +1,28 @@
+.header{
+    background: rgb(241, 217, 80);
+    align-items: center;
+
+}
+
+.header__content{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__title{
+    color: white;
+    text-decoration: none;
+    h1 {
+        margin: 0;
+    }
+}
+
+.second__header{
+    text-decoration: none;
+    color: white;
+    margin-right: $l-size;
+
+    
+
+}
