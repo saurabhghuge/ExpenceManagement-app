@@ -1,5 +1,5 @@
 import React from 'react';
-import {svg} from '../../utils/data/svg';
+import {svg} from '../../public/utils/svg';
 
 const arr = [
     {

@@ -2,3 +2,5 @@ node_modules
 public/dist
 .env.devlopment
 .env.test
+=
+src\playground

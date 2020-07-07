@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../components/Header';
-import ContactIcon from '../components/icons/contact';
+import ContactIcon from '../selectors/contact';
 
 const HelpPage = () => (
   <div>
